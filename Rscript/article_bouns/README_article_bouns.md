@@ -24,23 +24,23 @@
 
 * 藉由獲取文章瀏覽數的渠道，看每個編輯在所有的獲得瀏覽數的比例
 
-![](https://raw.githubusercontent.com/popdaily/popdaily.bigquery/Rdevelop/Rscript/article_bouns/image/Rplot.png?token=AEITWGRJO5ILBNEMFVPMDXK5SSA3S)
+![](https://github.com/PacificLin/DataAnalysisR/blob/master/Rscript/article_bouns/image/Rplot.png?raw=true)
 
 
 
 * 依照每個編輯的發文帳號與編輯本身的瀏覽數做比較，可看出不同帳號的表現
 
-![](https://raw.githubusercontent.com/popdaily/popdaily.bigquery/Rdevelop/Rscript/article_bouns/image/Rplot01.png?token=AEITWGTMIBZSAR2TBEG2I5C5SSA5O)
+![](https://github.com/PacificLin/DataAnalysisR/blob/master/Rscript/article_bouns/image/Rplot01.png?raw=true)
 
 
 
 * 依照每個編輯經過分數轉換後，文章分數的箱型圖
 
-![](https://raw.githubusercontent.com/popdaily/popdaily.bigquery/Rdevelop/Rscript/article_bouns/image/Rplot02.png?token=AEITWGSYGCQH7GCMI3DYEG25SSBAC)
+![](https://github.com/PacificLin/DataAnalysisR/blob/master/Rscript/article_bouns/image/Rplot02.png?raw=true)
 
 
 
 * 將每個編輯的最終分數轉換為機率密度圖，並與常態分布做比較，產生稿費級距
 
-![](https://raw.githubusercontent.com/popdaily/popdaily.bigquery/Rdevelop/Rscript/article_bouns/image/Rplot03.png?token=AEITWGVQLAFX4IR5H2RPA2K5SSBCO)
+![](https://github.com/PacificLin/DataAnalysisR/blob/master/Rscript/article_bouns/image/Rplot03.png?raw=true)
 
